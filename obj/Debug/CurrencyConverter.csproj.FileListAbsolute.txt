@@ -1,0 +1,15 @@
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe.config
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.exe
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\bin\Debug\CurrencyConverter.pdb
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.AssemblyReference.cache
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\obj\Debug\MainWindow.g.cs
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\obj\Debug\App.g.cs
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter_MarkupCompile.cache
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter_MarkupCompile.lref
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\obj\Debug\MainWindow.baml
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.g.resources
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.Properties.Resources.resources
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.GenerateResource.cache
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.csproj.CoreCompileInputs.cache
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.exe
+D:\01_Programming\Backend\C#\01_Denis\01_Denis_WPF\CurrencyConverter\CurrencyConverter\obj\Debug\CurrencyConverter.pdb
